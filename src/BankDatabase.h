@@ -11,7 +11,7 @@ private:
 	std::vector<User> UsersData;
 
 	//Just saves the file's name.
-	std::string FILE_NAME = "database.txt";
+	std::string FILE_NAME = "data/database.txt";
 
 public:
 
